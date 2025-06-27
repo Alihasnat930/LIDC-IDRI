@@ -29,3 +29,4 @@ Currently uses random labels. Replace with true labels for real medical classifi
 
 Works with PNG slices derived from CT scans.
 
+Download model: [Model file](https://www.kaggle.com/code/syedalihasnat/lidc-idri-model/output)
